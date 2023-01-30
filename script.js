@@ -10,7 +10,7 @@ const date = clock.querySelector("h2")
 
 let xPos = 50
 let yPos = 50
-let xVel = 4
+let xVel = 4.5
 let yVel = 3
 
 
