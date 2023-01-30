@@ -54,15 +54,15 @@ main {
 }
 
 #logo {
-    width: 10vw;
-    height: 10vw;
+    width: 8vw;
+    height: 8vw;
 }
 
 #hero img#code {
     top: 0;
     left: 0;
-    height: 12vw;
-    width: 12vw;
+    height: 10vw;
+    width: 10vw;
     border-radius: 15px;
 }
 
